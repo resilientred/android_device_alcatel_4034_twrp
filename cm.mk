@@ -11,5 +11,5 @@ $(call inherit-product, device/alcatel/4034/device_4034.mk)
 PRODUCT_DEVICE := 4034
 PRODUCT_NAME := cm_4034
 PRODUCT_BRAND := alcatel
-PRODUCT_MODEL := 4034
+PRODUCT_MODEL := Alcatel Pixi 4-4
 PRODUCT_MANUFACTURER := alcatel
